@@ -1,0 +1,19 @@
+{
+    "name": "zhoujiafei/hello-world",
+    "description": "this is my first package",
+    "require": {
+        "monolog/monolog": "^1.22",
+        "guzzle/http": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "周星星",
+            "email": "564751169@qq.com"
+        }
+    ]
+}
