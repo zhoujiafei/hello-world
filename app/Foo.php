@@ -8,7 +8,6 @@ class Foo
 {
     public function show() {
         $obj = new Common();
-        $obj->say('zhouxingxing');
-
+        $obj->say('nihao zhouxingxing');
     }
 }
