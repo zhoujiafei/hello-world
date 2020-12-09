@@ -6,7 +6,7 @@
             "Zjf\\Hello\\": "app/"
         }
     },
-    "license": "testing",
+    "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
