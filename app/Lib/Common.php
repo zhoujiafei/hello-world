@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Lib;
+namespace Zjf\Hello\Lib;
 
 class Common
 {

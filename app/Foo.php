@@ -1,8 +1,8 @@
 <?php
 
-namespace App;
+namespace Zjf\Hello;
 
-use App\Lib\Common;
+use Zjf\Hello\Lib\Common;
 
 class Foo
 {
