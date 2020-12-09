@@ -1,13 +1,9 @@
 {
     "name": "zhoujiafei/hello-world",
-    "description": "this is my first package",
-    "require": {
-        "monolog/monolog": "^1.22",
-        "guzzle/http": "^3.9"
-    },
+    "description": "This is Test Package",
     "autoload": {
         "psr-4": {
-            "Zhoujiafei\\HelloWorld\\": "app/"
+            "Zjf\\Hello\\": "app/"
         }
     },
     "authors": [

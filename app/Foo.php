@@ -2,9 +2,12 @@
 
 namespace App;
 
+use App\Lib\Common;
+
 class Foo
 {
     public function show() {
-        echo 'show';
+        $obj = new Common();
+        $obj->say('zhouxingxing');
     }
 }
