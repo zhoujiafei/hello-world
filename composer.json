@@ -6,6 +6,8 @@
             "Zjf\\Hello\\": "app/"
         }
     },
+    "license": "testing",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "周星星",
